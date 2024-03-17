@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://bi-sz.github.io/portfolio/">
+    <a href="https://njy622.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
     <a href="https://velog.io/@bi-sz">
