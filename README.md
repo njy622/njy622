@@ -32,11 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
     
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@bi-sz)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
 
- 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:kwonbe99@gmail.com">
