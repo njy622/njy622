@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-## 💻 DEV's log 💻
+## 💻 DEV's Portfolio 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://njy622.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
