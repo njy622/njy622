@@ -70,7 +70,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&amp;logo=Selenium&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=Selenium&amp;logoColor=white" />
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
