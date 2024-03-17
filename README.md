@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
+    <a href="mailto:whitenjy622@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
+    <a href="https://open.kakao.com/o/sGTr3Bgg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    <a href="https://www.linkedin.com/in/%EC%A7%80%EC%98%81-%EB%82%A8-784b392ba/">
+        <img src="https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
 </div><br>
