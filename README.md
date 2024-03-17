@@ -42,7 +42,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
    <a href="https://www.linkedin.com/in/%EC%A7%80%EC%98%81-%EB%82%A8-784b392ba/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link"> 
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"> 
    </a>
    
 
