@@ -45,7 +45,9 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
-</div><br>
+</div>
+
+<br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
