@@ -108,7 +108,7 @@ Here are some ideas to get you started:
     <p><strong>Communication</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Discod-7D57C1?style=for-the-badge&logo=staruml&logoColor=white">
+        <img src="https://img.shields.io/badge/Discod-7D57C1?style=for-the-badge&logo=discod&logoColor=white">
     </div>
 </div><br></div></div></div>
 
