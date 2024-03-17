@@ -41,7 +41,10 @@ Here are some ideas to get you started:
     <a href="https://open.kakao.com/o/sGTr3Bgg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%EC%A7%80%EC%98%81-%EB%82%A8-784b392ba/) 
+   <a href="https://www.linkedin.com/in/%EC%A7%80%EC%98%81-%EB%82%A8-784b392ba/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link"> 
+   </a>
+   
 
    
 
