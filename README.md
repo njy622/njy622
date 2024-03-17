@@ -64,7 +64,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
         <img src="https://img.shields.io/badge/Ajax-00758F?style=for-the-badge&logo=ajax&logoColor=white">
          <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
