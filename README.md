@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <p style="margin-bottom:-3%;"><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
