@@ -62,6 +62,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
+    </div>
+ <br><br>
     <!-- Frameworks, Platforms and Libraries -->    
         <p class="mt-5"><strong>Frameworks, Platforms and Libraries</strong></p>
     <div>
@@ -83,6 +85,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&amp;logo=json&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
     </div>
+ <br><br>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
@@ -90,16 +93,21 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariaDB&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
+ <br><br>
     <!-- OS -->
      <p><strong>OS</strong></p>
+     <div>
        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    </div>
+    <br><br>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
     </div>
+      <br><br>
     <!-- IDEs/Editors -->
     <p><strong>IDEs/Editors</strong></p>
     <div>
@@ -108,12 +116,14 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
     </div>
+ <br><br>
      <!-- Version Control -->
     <p><strong>Version Control</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </div>
+ <br><br>
     <!-- Other -->
     <p><strong>Other</strong></p>
     <div>
