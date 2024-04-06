@@ -124,6 +124,15 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </div>
  <br><br>
+     <!-- ML/DL -->
+    <p><strong>ML/DL</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    </div>
+ <br><br>
     <!-- Other -->
     <p><strong>Other</strong></p>
     <div>
