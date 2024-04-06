@@ -87,7 +87,6 @@ Here are some ideas to get you started:
      <p><strong>OS</strong></p>
        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
