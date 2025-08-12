@@ -64,15 +64,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
     </div>
  <br><br>
-
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariaDB&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
- <br><br>
     <!-- OS -->
      <p><strong>OS</strong></p>
      <div>
@@ -88,30 +79,11 @@ Here are some ideas to get you started:
         
     </div>
       <br><br>
-    <!-- IDEs/Editors -->
-    <p><strong>IDEs/Editors</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-    </div>
- <br><br>
      <!-- Version Control -->
     <p><strong>Version Control</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    </div>
- <br><br>
-     <!-- ML/DL -->
-    <p><strong>ML/DL</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     </div>
  <br><br>
 </div><br></div></div></div>
